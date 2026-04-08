@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hemanth Sai Kumar | DevOps Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+
+<body>
+
+  <div class="left"> 
+    <img src="photo.jpeg" alt="Profile Photo">
+  </div>
+
+  <div class="right">
+
+    <h1 class="name">Hemanth</h1>
+    <h3>AWS DevOps Engineer | Cloud & Automation Engineer</h3>
+
+    <a href="resume.pdf" download>
+      <button class="btn">
+        <i class="fa fa-download"></i> Download Resume
+      </button>
+    </a>
+
+    <div class="section">
+      <div class="icon-title"><i class="fa fa-user"></i> About Me</div>
+      <p>
+        DevOps Engineer focused on AWS, Terraform, CI/CD, Docker, and automation.
+      </p>
+    </div>
+
+    <div class="section">
+      <div class="icon-title"><i class="fa fa-cogs"></i> Skills</div>
+      <div class="skills">
+        <span>skill 1</span>
+        <span>skill 2</span>
+        <span>skill 3</span>
+        <span>skill 4</span>  
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="icon-title"><i class="fa fa-briefcase"></i> Experience</div>
+      <p><b>Company Name Here</b> – Role Here</p>
+      <ul>
+        <li>Worked on AWS infrastructure setup</li>
+        <li>Built CI/CD pipelines</li>
+        <li>Used Terraform for automation</li>
+      </ul>
+    </div>
+    
+    <div class="section">
+      <div class="icon-title"><i class="fa fa-diagram-project"></i> Projects</div>
+
+      <div class="project">
+        <b>Project Name 1</b>
+        <p>Key points will be mentioned</p>
+        <a href="#">GitHub Link</a>
+      </div>
+
+      <div class="project">
+        <b>Project Name 2</b>
+        <p>Key points will be mentioned</p>
+        <a href="#">GitHub Link</a>
+      </div>
+
+    <div class="section">
+      <div class="icon-title"><i class="fa fa-envelope"></i> Contact</div>
+
+      <p>Email: xxxxxxxxxx@gmail.com</p>
+      <p>Phone: +91-xxxxxxxxxx</p>
+
+      <p>
+        <a href="https://linkedin.com/in/your name" target="_blank">
+          <i class="fa-brands fa-linkedin"></i> LinkedIn
+        </a>
+        |
+        <a href="https://github.com/your name" target="_blank">
+          <i class="fa-brands fa-github"></i> GitHub
+        </a>
+      </p>
+    </div>
+
+  </div>
+
+</body>
+</html>
